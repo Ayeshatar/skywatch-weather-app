@@ -1,0 +1,11 @@
+{
+  "temperatureUnit": "C",
+  "windUnit": "kmh",
+  "language": "English",
+  "theme": "dark",
+  "notifications": {
+    "weatherAlerts": false,
+    "dailyForecast": false,
+    "severeWeather": true
+  }
+}
